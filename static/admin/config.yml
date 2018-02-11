@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: m2mathew/gatsby-netlify-cms-starter
 
 media_folder: static/assets
 
